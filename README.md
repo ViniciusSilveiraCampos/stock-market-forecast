@@ -9,11 +9,11 @@ Este projeto utiliza uma rede neural recorrente (LSTM) para prever os preços da
 
 ## Índice
 
-- [Descrição](#descrição-📝)
+- [Descrição](#descrição-)
 
-- [Base de Dados](#base-de-dados-💾)
+- [Base de Dados](#base-de-dados-)
 
-- [Resultados](#resultados-📶)
+- [Resultados](#resultados-)
 
 - [Contato](#contato)
 
