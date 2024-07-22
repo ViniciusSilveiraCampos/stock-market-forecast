@@ -68,7 +68,7 @@ Contribuições são bem-vindas! Se você deseja contribuir com este projeto, si
 
 ## Contato
 
-Email: vivico2005@gmail.com
+Email: vinicius.silveira.campos@gmail.com
 
 Link do Codigo: https://github.com/ViniciusSilveiraCampos/Acoes_Previsao/blob/main/Previsão_Preço_Das_Ações.ipynb
 
